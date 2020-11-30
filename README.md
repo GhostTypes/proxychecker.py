@@ -9,7 +9,7 @@ Simple Proxy Checker written in Python3
 * Working proxies are saved automatically as the program is checking, and results will be displayed during & after checking.
 
 # Showcase
+![Results](https://raw.githubusercontent.com/GhostTypes/proxychecker.py/main/images/finished.PNG)
 ![MainMenu](https://raw.githubusercontent.com/GhostTypes/proxychecker.py/main/images/mainmenu.PNG)
 ![CPM](https://raw.githubusercontent.com/GhostTypes/proxychecker.py/main/images/cpm1.PNG)
 ![CPM2](https://raw.githubusercontent.com/GhostTypes/proxychecker.py/main/images/cpm2.PNG)
-![Results](https://raw.githubusercontent.com/GhostTypes/proxychecker.py/main/images/finished.PNG)
