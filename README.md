@@ -2,7 +2,7 @@
 Simple Proxy Checker written in Python3
 
 # Instructions
-1. Download the latest .zip and extract somewhere on your PC
+1. Download the latest .zip and extract somewhere on your PC (if you're on windows and don't have python installed, just use the exe)
 2. Run pip install -r requirements.txt in that folder to make everything needed to run is installed
 3. Open ProxyChecker.cfg to manage your settings
 4. Run python proxychecker.py and import your proxy list to start checking.
